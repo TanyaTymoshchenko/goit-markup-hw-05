@@ -31,7 +31,6 @@ button {
     font-style: normal;
     font-weight: 500;
     line-height: 0.15;
-    /* 150% */
     letter-spacing: 0.04em;
     padding: 16px;
     background-color: #4D5AE5;
@@ -82,7 +81,7 @@ p {
     align-items: center;
 }
 
-.logo-conteiner {
+.logo-container {
     margin-right: 76px;
 }
 
@@ -92,7 +91,6 @@ p {
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
-    /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -149,7 +147,7 @@ p {
     gap: 40px;
 }
 
-.adress-menu {
+.address-menu {
     display: flex;
     gap: 40px;
     justify-content: flex-end;
@@ -169,7 +167,7 @@ p {
     color: #404BBF;
 }
 
-/*============================ hero section section first=======================*/
+/*============================hero section=======================*/
 .hero-section {
 
     padding: 188px 0;
@@ -230,13 +228,13 @@ p {
 }
 
 
-/* ==============================section second ==================================*/
-.specifics {
+/* ==============================benefits==================================*/
+.benefits {
     color: #2E2F42;
 
 }
 
-.specifics-title {
+.benefits-title {
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.4px;
@@ -258,7 +256,7 @@ p {
     overflow: hidden;
 }
 
-.specifics-icons {
+.benefits-icons {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -270,21 +268,21 @@ p {
 
 }
 
-.specifics-menu {
+.benefits-menu {
     display: flex;
     gap: 24px;
 }
 
-.specifics-list {
+.benefits-list {
     width: calc((100% - 72px)/4);
 
 }
 
-.specifics-title {
+.benefits-title {
     margin-bottom: 8px;
 }
 
-.specifics-explanation {
+.benefits-explanation {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
@@ -292,7 +290,7 @@ p {
 
 }
 
-/* ===================================section third ===================================*/
+/* ===================================our team===================================*/
 
 .our-team {
     background-color: #F4F4FD;
@@ -395,7 +393,7 @@ p {
 
 }
 
-.socisl-links-icons {
+.social-links-icons {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -403,7 +401,7 @@ p {
 
 }
 
-/* ==========================section fourth================================= */
+/* ==========================our portfolio================================= */
 .our-portfolio {
     color: #2E2F42;
     background-color: #FFFFFF;
@@ -493,7 +491,7 @@ p {
 
 }
 
-/*===============================   footer  ============================== */
+/*===============================footer============================== */
 .footer {
     background-color: #2E2F42;
     padding: 100px 0;
@@ -645,7 +643,7 @@ input::placeholder {
 
 }
 
-/* ==========================    MODAL WINDOW     ================================== */
+/* ==========================modal window================================== */
 .modal-window-container {
     position: fixed;
     top: 0;
