@@ -395,7 +395,7 @@ p {
 
 }
 
-.social-links-icons {
+.socisl-links-icons {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -572,7 +572,7 @@ p {
 }
 
 /* ==========================form footer============================= */
-.footer-form-cotainer {
+.footer-form-container {
     display: block;
     margin-left: 80px;
 }
