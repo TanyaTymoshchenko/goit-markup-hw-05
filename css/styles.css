@@ -1,4 +1,3 @@
-/* ==============================base==================================*/
 body {
     color: #434455;
     background-color: #fff;
@@ -83,7 +82,7 @@ p {
     align-items: center;
 }
 
-.logo-container {
+.logo-conteiner {
     margin-right: 76px;
 }
 
@@ -150,7 +149,7 @@ p {
     gap: 40px;
 }
 
-.address-menu {
+.adress-menu {
     display: flex;
     gap: 40px;
     justify-content: flex-end;
@@ -231,13 +230,13 @@ p {
 }
 
 
-/* ==============================benefits==================================*/
-.benefits {
+/* ==============================section second ==================================*/
+.specifics {
     color: #2E2F42;
 
 }
 
-.benefits-title {
+.specifics-title {
     font-size: 20px;
     font-weight: 500;
     letter-spacing: 0.4px;
@@ -259,7 +258,7 @@ p {
     overflow: hidden;
 }
 
-.benefits-icons {
+.specifics-icons {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -271,21 +270,21 @@ p {
 
 }
 
-.benefits-menu {
+.specifics-menu {
     display: flex;
     gap: 24px;
 }
 
-.benefits-list {
+.specifics-list {
     width: calc((100% - 72px)/4);
 
 }
 
-.benefits-title {
+.specifics-title {
     margin-bottom: 8px;
 }
 
-.benefits-explanation {
+.specifics-explanation {
     color: #434455;
     font-size: 16px;
     line-height: 1.5;
@@ -293,7 +292,7 @@ p {
 
 }
 
-/* ===================================our team===================================*/
+/* ===================================section third ===================================*/
 
 .our-team {
     background-color: #F4F4FD;
@@ -396,7 +395,7 @@ p {
 
 }
 
-.social-links-icons {
+.socisl-links-icons {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -404,7 +403,7 @@ p {
 
 }
 
-/* ==========================our portfolio================================= */
+/* ==========================section fourth================================= */
 .our-portfolio {
     color: #2E2F42;
     background-color: #FFFFFF;
@@ -494,7 +493,7 @@ p {
 
 }
 
-/*===============================footer============================== */
+/*===============================   footer  ============================== */
 .footer {
     background-color: #2E2F42;
     padding: 100px 0;
@@ -573,7 +572,7 @@ p {
 }
 
 /* ==========================form footer============================= */
-.footer-form-container {
+.footer-form-cotainer {
     display: block;
     margin-left: 80px;
 }
@@ -646,7 +645,7 @@ input::placeholder {
 
 }
 
-/* ==========================modal window================================== */
+/* ==========================    MODAL WINDOW     ================================== */
 .modal-window-container {
     position: fixed;
     top: 0;
