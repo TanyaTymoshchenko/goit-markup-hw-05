@@ -406,7 +406,7 @@ main {
 .footer .social_link:focus {
     background-color: #31d0aa;
 }
-/*backdrop */
+/* ==========================form footer============================= */
 .footer-form-cotainer {
     display: block;
     margin-left: 80px;
